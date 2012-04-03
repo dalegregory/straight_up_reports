@@ -1,0 +1,4 @@
+== Straight up reports
+
+Rails engine for adding reporting functionality to rails applications
+
